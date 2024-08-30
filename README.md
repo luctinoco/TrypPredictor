@@ -1,5 +1,4 @@
-
-<a href="https://luctinoco.github.io/TrypPredictor/" target="_blank"><img src="images/TrypPredictor.png" width="100"></a>
+<a href="https://luctinoco.github.io/TrypPredictor/" target="_blank"><img src="Images/TrypPredictor.png" width="100"></a>
 
 # TrypPredictor
 
