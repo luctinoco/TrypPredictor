@@ -1,3 +1,8 @@
+
+<a href="https://luctinoco.github.io/TrypPredictor/" target="_blank"><img src="images/TrypPredictor.png" width="100"></a>
+
+# TrypPredictor
+
 # Desenvolvimento de um Modelo de Aprendizado de Máquina para Predição de Infecções por *Trypanosoma cruzi* em *Didelphis aurita*: Abordagem de Dados Desbalanceados e Interpretação Avançada
 
 Este projeto aborda o desenvolvimento de um modelo de aprendizado de máquina para a previsão de infecções por *Trypanosoma cruzi* em *Didelphis aurita*, utilizando um conjunto de dados pré-existente e confiável. Para garantir um modelo robusto e interpretável, foram incorporadas várias etapas no processo de modelagem, incluindo pré-processamento de dados, tratamento de desbalanceamento de classes, seleção de características e otimização de hiperparâmetros.
